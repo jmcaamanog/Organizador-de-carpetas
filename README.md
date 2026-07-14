@@ -9,10 +9,10 @@
 ## 🚀 Características Principales
 
 *   **Gestión por Plantillas:** Carga estructuras complejas a partir de archivos `.json` o archivos de texto plano (`.txt`) con indentación.
-*   **Editor Visual Integrado:** Añade, elimina, mueve o indenta carpetas y archivos (📄) directamente desde un árbol interactivo en la interfaz[cite: 4].
-*   **Nomenclatura Estandarizada:** Permite introducir datos clave del proyecto (Año, Número, Descripción) para generar automáticamente el nombre de la carpeta raíz (ej: `2025-001-Proyecto_Basico`)[cite: 4].
-*   **Personalización Visual:** Incluye selector de temas (Oscuro/Claro) que se guarda en un archivo de configuración local para futuras sesiones[cite: 4].
-*   **Optimizado para PyInstaller:** El código está preparado con funciones específicas para compilarse en un único archivo `.exe` sin perder las referencias a iconos o imágenes[cite: 4].
+*   **Editor Visual Integrado:** Añade, elimina, mueve o indenta carpetas y archivos (📄) directamente desde un árbol interactivo en la interfaz.
+*   **Nomenclatura Estandarizada:** Permite introducir datos clave del proyecto (Año, Número, Descripción) para generar automáticamente el nombre de la carpeta raíz (ej: `2025-001-Proyecto_Basico`).
+*   **Personalización Visual:** Incluye selector de temas (Oscuro/Claro) que se guarda en un archivo de configuración local para futuras sesiones.
+*   **Optimizado para PyInstaller:** El código está preparado con funciones específicas para compilarse en un único archivo `.exe` sin perder las referencias a iconos o imágenes.
 
 ## ⚙️ Instalación y Uso
 
@@ -24,7 +24,7 @@
    ```bash
    cd creador-carpetas-pro
 
-3. Instala la dependencia necesaria para el manejo de imágenes (Pillow)[cite: 4]:
+3. Instala la dependencia necesaria para el manejo de imágenes (Pillow):
     ```bash
     pip install Pillow
 
