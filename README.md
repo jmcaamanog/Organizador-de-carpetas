@@ -1,8 +1,13 @@
 # Creador de Carpetas Avanzado 📁🏗️
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=flat-square)
+![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=flat-square)
+![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware---grey?style=flat-square)
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Stars](https://img.shields.io/github/stars/jmcaamanog/Organizador-de-carpetas?style=flat-square&color=yellow&logo=github)
+![License](https://img.shields.io/github/license/jmcaamanog/Organizador-de-carpetas?style=flat-square&color=green)
 
 (Arquitecto Técnico_JMC) Herramienta de escritorio en Python para la creación automatizada de estructuras de carpetas y archivos base. Diseñada para estandarizar la organización de proyectos en estudios de arquitectura e ingeniería (entornos BIM).
 
